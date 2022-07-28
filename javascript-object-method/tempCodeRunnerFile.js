@@ -1,0 +1,1 @@
+ocument.getElementById("nameOfUser").innerHTML = person.name11();

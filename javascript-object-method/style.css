@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.dash-board{
+    border-radius: 10px;
+    margin-left: 38%;
+    margin-top: 5%;
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+}
+.dash-board-text{
+    display: flex;
+}
+.dash-board-text p{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.server-name{
+    font-weight: bold;
+}
